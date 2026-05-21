@@ -1,1 +1,1 @@
-programs is no longer supported, pls check a better one made by blazer https://github.com/MillenniumDawn/focus-tree-creation-tool
+program back to support, AI powered program for focus editing and event creation and spirit making.
