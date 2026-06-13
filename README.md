@@ -1,5 +1,6 @@
-    # Nova Modding Suite
+    # Nova Modding Suite (Made Fully By Ai Gemini, Claude)
 Discord: https://discord.gg/Z6P23hjEsM
+
 **A visual, crash-safe creation hub for Hearts of Iron IV mods.** Build focus trees, research, events, decisions, national spirits, characters, country setups, and a full map — without hand-writing a single line of Paradox script.
 
 Nova sits on top of the base game (or any mod, like Millennium Dawn) and writes **only to your own mod** — vanilla and the mods you depend on are never touched. Every tool runs its edits through a Save-gate that refuses or warns on the things that crash HOI4 on launch, so you find problems in the editor instead of at a black screen.
