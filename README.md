@@ -28,27 +28,6 @@ Nova sits on top of the base game (or any mod, like Millennium Dawn) and writes 
 
 ---
 
-## Download & run
-
-**Portable build (Windows, no install):** grab the latest `.exe` from the [Releases](../../releases) page and run it. It's self-contained — your edits go to your mod folder.
-
-> The portable `.exe` isn't code-signed, so Windows SmartScreen may show *"Windows protected your PC."* Choose **More info → Run anyway** if you trust the build.
-
-**From source:**
-
-```bash
-npm install
-npm run dev      # launches the desktop (Electron) app
-```
-
-To build your own portable `.exe`:
-
-```bash
-npm run build    # output in dist/
-```
-
----
-
 ## Requirements
 
 - **Windows** (the portable build is x64).
