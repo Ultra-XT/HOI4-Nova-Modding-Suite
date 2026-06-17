@@ -1,5 +1,5 @@
     # Nova Modding Suite (Made Fully By Ai Gemini, Claude)
-Discord: https://discord.gg/Z6P23hjEsM
+Discord: https://discord.gg/Z6P23hjEsM (PLEASE REPORT ANY BUGS YOU FIND TO DISCORD SERVER.)
 
 **A visual, crash-safe creation hub for Hearts of Iron IV mods.** Build focus trees, research, events, decisions, national spirits, characters, country setups, and a full map — without hand-writing a single line of Paradox script.
 
